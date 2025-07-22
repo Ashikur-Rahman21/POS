@@ -11,8 +11,8 @@ A Laravel-based application to manage Products, Customers, Invoices, and Users. 
 - ✅ Invoice Creation & Management
 - ✅ Add Multiple Products to Invoices
 - ✅ Invoice Total Calculation (Subtotal, Tax, Discount)
-- ✅ PDF Export or Print Invoices (Optional)
-- ✅ Responsive UI (using Laravel Vite or Mix)
+- ✅ PDF Export and Print Invoices
+- ✅ Responsive UI
 - ✅ RESTful Routing & MVC Architecture
 - ✅ Clean & Maintainable Codebase
 
